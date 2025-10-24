@@ -1,3 +1,3 @@
 # Demo 
 
-some decriptions:
+Some decriptions:
